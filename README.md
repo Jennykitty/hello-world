@@ -1,4 +1,4 @@
 # hello-world
-Test conflict
+My first App
 
 This is for Github guide.
