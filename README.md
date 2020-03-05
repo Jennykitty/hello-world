@@ -1,4 +1,4 @@
 # hello-world
-Test conflict
+world
 
 This is for Github guide.
